@@ -5,3 +5,5 @@ langchain
 flask
 pypdf
 python-dotenv
+langchain-community
+langchain-pinecone
